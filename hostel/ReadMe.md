@@ -103,5 +103,5 @@ A comprehensive web application for managing hostel operations including student
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/Thrishaa16/Hostel_Management_System.git
-cd HostelManagement
+git clone https://github.com/SHRAVANACHARYA2003/Hostel_Management_System
+cd Hostel_Management_System
